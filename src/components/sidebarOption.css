@@ -1,0 +1,21 @@
+.sidebarOption{
+    color: rgb(89, 80, 109);
+    height: 40px;
+    cursor: pointer;
+    display: flex;
+    transition: 200ms color ease-in;
+}
+.sidebarOption .Icon{
+    padding: 0 10px;
+}
+
+.sidebarOption:hover{
+    color: rgb(210, 199, 255);
+}
+
+.sidebarOption p {
+    max-block-size: 1;
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 17px;
+}

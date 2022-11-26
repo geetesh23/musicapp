@@ -1,0 +1,24 @@
+.songs_list{
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    margin:0px auto;
+    margin: 20px auto;
+    padding-top: 10px;
+    /* background-color: rgb(134, 157, 158); */
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    width: 310px;
+    /* position: absolute; */
+    /* top: 100px;
+    left: 20vw; */
+}
+
+.songinfo{
+    margin: 0px 20px;
+}
+.songs_list #img{
+    height: 60px;
+    width: 60px;
+}
